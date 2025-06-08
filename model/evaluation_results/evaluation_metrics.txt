@@ -1,0 +1,7 @@
+Model Evaluation Metrics
+======================
+
+mse: 0.0320
+rmse: 0.1789
+mae: 0.0818
+r2: 0.5050
